@@ -89,6 +89,14 @@ Provides:
 - Customer-level churn risk details
 - Interactive filtering using slicers
 
+### Dashboard Preview
+
+#### Executive Churn Overview
+![Executive Churn Overview](./Screenshot%202026-08-12%20161242.png)
+
+#### Customer Churn Risk Analysis
+![Customer Churn Risk Analysis](./Screenshot%202026-08-12%20161254.png)
+
 ## 💡 Business Insights
 
 - High-risk customers have a significantly higher actual churn rate than low-risk customers.
